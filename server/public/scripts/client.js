@@ -1,1 +1,1 @@
-console.log("Meow");
+var myApp = angular.module("myApp", []);
